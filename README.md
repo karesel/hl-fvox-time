@@ -8,4 +8,4 @@ Sound files stolen straight out of half life.
 
 ## Build
 
-`gcc main.c -lSDL2`
+`gcc hl-fvox.time.c -o hl-fvox.time -lSDL2`
