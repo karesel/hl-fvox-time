@@ -9,3 +9,7 @@ Sound files stolen straight out of half life.
 ## Build
 
 `gcc hl-fvox.time.c -o hl-fvox.time -lSDL2`
+
+## Dependancies
+
+- SDL2
