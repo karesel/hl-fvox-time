@@ -10,6 +10,6 @@ Sound files stolen straight out of half life.
 
 `gcc hl-fvox.time.c -o hl-fvox.time -lSDL2`
 
-## Dependancies
+## Dependencies
 
 - SDL2
